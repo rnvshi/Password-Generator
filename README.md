@@ -12,6 +12,4 @@ Here is an image of the prompt window once the "Generate" button has been clicke
 
 A series of prompts follow requiring the user to input the desired parameters for the randomly generated password.
 
-## License
-
-Refer to licence in repository.
+Link to the deployed application: https://rnvshi.github.io/Password-Generator/
